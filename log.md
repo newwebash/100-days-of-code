@@ -323,6 +323,21 @@ to make sure this one's correct.
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/17)
 
 
+### Day 23: November 18, 2020
+
+**Today's Progress**: Finished refactoring CSS to avoid linking styles
+to IDs.
+
+**Thoughts**: I could stand to do more style consolidaton based on the DRY principle,
+but want to avoid getting stuck on this project for too long. I'm itching to
+move on to the next one! And I think that now I'm in a better position to be
+proactive about best practices like DRY from the beginning as I move on to the
+next project.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/18)
+
+
+
 ### Day X:
 
 **Today's Progress**:
