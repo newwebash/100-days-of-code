@@ -344,7 +344,7 @@ started styling the main site header.
 
 Doesn't look like much yet but it's always fun to see the before and after:
 
-<img src="images/tech-docs-page-day1.png" alt="screenshot yoga studio landing page above the fold">
+<img src="images/tech-docs-page-day1.PNG" alt="screenshot tech docs site day 1">
 
 I'm trying to follow the guidelines in this article: [BEM for Beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
 
