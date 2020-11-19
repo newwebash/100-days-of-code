@@ -337,6 +337,21 @@ next project.
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/18)
 
 
+### Day 24: November 19, 2020
+
+**Today's Progress**: Set up basic HTML elements for my tech docs page and
+started styling the main site header.
+
+Doesn't look like much yet but it's always fun to see the before and after:
+
+<img src="images/tech-docs-page-day1.png" alt="screenshot yoga studio landing page above the fold">
+
+I'm trying to follow the guidelines in this article: [BEM for Beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
+
+**Thoughts**: This is fun!
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-tech-docs-page/pull/2)
+
 
 ### Day X:
 
