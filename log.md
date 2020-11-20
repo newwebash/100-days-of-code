@@ -353,6 +353,17 @@ I'm trying to follow the guidelines in this article: [BEM for Beginners](https:/
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-tech-docs-page/pull/2)
 
 
+### Day 25: November 20, 2020
+
+**Today's Progress**: Made lots of progress on styling the nav. I also created
+a stylesheet for the main section but the styling is broken.
+
+**Thoughts**: So far I'm finding the BEM method for organizing my stylesheets
+very helpful!
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-tech-docs-page/pull/3)
+
+
 ### Day X:
 
 **Today's Progress**:
