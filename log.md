@@ -366,6 +366,14 @@ very helpful!
 
 ### Day X:
 
+**Today's Progress**: Changed main element positioning using flexbox. Site is
+more or less complete, at least according to the required user stories.
+
+**Thoughts**: It's a relief to fix those pesky layout issues!
+
+
+### Day X:
+
 **Today's Progress**:
 
 **Thoughts**:
