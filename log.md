@@ -364,7 +364,7 @@ very helpful!
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-tech-docs-page/pull/3)
 
 
-### Day X:
+### Day 26: November 21, 2020
 
 **Today's Progress**: Changed main element positioning using flexbox. Site is
 more or less complete, at least according to the required user stories.
