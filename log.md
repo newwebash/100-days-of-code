@@ -328,7 +328,7 @@ to make sure this one's correct.
 **Today's Progress**: Finished refactoring CSS to avoid linking styles
 to IDs.
 
-**Thoughts**: I could stand to do more style consolidaton based on the DRY principle,
+**Thoughts**: I could stand to do more style consolidation based on the DRY principle,
 but want to avoid getting stuck on this project for too long. I'm itching to
 move on to the next one! And I think that now I'm in a better position to be
 proactive about best practices like DRY from the beginning as I move on to the
@@ -370,6 +370,23 @@ very helpful!
 more or less complete, at least according to the required user stories.
 
 **Thoughts**: It's a relief to fix those pesky layout issues!
+
+
+### Day 27: November 22, 2020
+
+**Today's Progress**: Finished technical documentation site project!
+
+**Thoughts**: There's of course more that I could do to make this a fully-fledged
+site rather than just a simple page. But I'd really like to move on to other
+projects, so now that I have an MVP for this project I'll move on to JavaScript
+projects for now.
+
+**Link(s) to work**:
+
+1. See the site on [Codepen](https://codepen.io/NewWebAsh/pen/oNLRoPW?editors=0100).
+2. Screenshot:
+
+   <img src="images/tech-docs-site-screenshot.PNG" alt="technical documentation webpage screenshot">
 
 
 ### Day X:
