@@ -389,6 +389,26 @@ projects for now.
    <img src="images/tech-docs-site-screenshot.PNG" alt="technical documentation webpage screenshot">
 
 
+### Day 28: November 23, 2020
+
+**Today's Progress**: I haven't merged any code today but I have done lots of
+work! I've been working on migrating my product landing page to WordPress,
+following this [Smashing Magazine article](https://www.smashingmagazine.com/2013/05/migrate-existing-website-to-wordpress/).
+
+**Thoughts**: It feels risky going off the rails and exploring WordPress instead
+of the FCC curriculum. But I just can't help but wonder if I can get to a
+Minimum Viable Developer status faster if I'm able to develop and deploy custom
+sites and then hand them over to customers to edit content on their own.
+
+I think with my knowledge and experience, it shouldn't take too much to be able
+to pull this off. On the one hand, I don't know PHP but on the other hand,
+I already made lots of progress today and what I'm seeing on the backend looks
+relatively similar to what I've seen when working with static site generators.
+
+**Link(s) to work**: I haven't merged any code today, and the dev work I'm doing
+so far is on my local server.
+
+
 ### Day X:
 
 **Today's Progress**:
