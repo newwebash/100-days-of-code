@@ -409,6 +409,19 @@ relatively similar to what I've seen when working with static site generators.
 so far is on my local server.
 
 
+### Day 29: November 24, 2020
+
+**Today's Progress**: Since yesterday I started having to work with PHP, and
+since I have no PHP experience, I decided today to start a Lynda course called
+PHP Essential Training. I've just finished the lesson that covers variables.
+
+**Thoughts**: I feel a little anxious still going off track from the FCC
+curriculum to learn about PHP. I hope it doesn't slow me down!
+
+**Link(s) to work**: I've created [this repo](https://github.com/newwebash/php_essentials)
+to host my course files.
+
+
 ### Day X:
 
 **Today's Progress**:
