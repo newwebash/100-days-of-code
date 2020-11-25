@@ -422,6 +422,17 @@ curriculum to learn about PHP. I hope it doesn't slow me down!
 to host my course files.
 
 
+### Day 30: November 25, 2020
+
+**Today's Progress**: Continued working through PHP Essentials course, mostly
+just learning basic syntax.
+
+**Thoughts**: It's true that when you learn one technology, it helps you
+transfer that knowledge to other technologies. PHP syntax is pretty easy given
+that it's just a different flavor of many of the things I've already learned
+through my C and Java courses.
+
+
 ### Day X:
 
 **Today's Progress**:
