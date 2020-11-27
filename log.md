@@ -433,6 +433,18 @@ that it's just a different flavor of many of the things I've already learned
 through my C and Java courses.
 
 
+### Day 31: November 27, 2020
+
+**Today's Progress**: Well, I've got news! I decided to pivot yet again and
+start learning Vue.js. I'm learning it by following a Lynda course, since
+Vue's not covered in the FCC curriculum.
+
+**Thoughts**: This is exciting! I feel like I'm able to grasp this easily and
+am thinking of how I could implement it for my own app!
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/learning-vuejs/pull/1)
+
+
 ### Day X:
 
 **Today's Progress**:
