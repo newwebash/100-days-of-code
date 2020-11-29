@@ -445,6 +445,22 @@ am thinking of how I could implement it for my own app!
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/learning-vuejs/pull/1)
 
 
+### Day 32: November 28, 2020
+
+**Today's Progress**: Continued Vue.js course. I also got inspired by the
+course content to add some smooth-scroll functionality to my product landing page!
+
+**Thoughts**: It was hard to make time for coding today. I'm excited to have made
+it through my first month of 100 days of code! But some days are hard, when you're
+busy and not sure if you'll have enough time for it that day. Plus I'm just very
+tired!
+
+**Link(s) to work**:
+
+1. Updates from latest Vue.js lessons - [PR](https://github.com/newwebash/learning-vuejs/pull/2)
+2. Use jQuery to implement smooth scroll - [PR](https://github.com/newwebash/fcc-product-landing-page/pull/19)
+
+
 ### Day X:
 
 **Today's Progress**:
