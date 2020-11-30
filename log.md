@@ -461,6 +461,19 @@ tired!
 2. Use jQuery to implement smooth scroll - [PR](https://github.com/newwebash/fcc-product-landing-page/pull/19)
 
 
+### Day 33:
+
+**Today's Progress**: Almost finished Vue course. Based on what I've learned so
+far, I've started converting my tech docs theme last week to a Vue template.
+My plan is to get this template ready to use as the basis for a recipe app I've
+been interested in making for awhile now.
+
+**Thoughts**: This is really exciting!
+
+**Link(s) to work**: My new [recipe app repo](https://github.com/newwebash/recipe-app)
+
+
+
 ### Day X:
 
 **Today's Progress**:
