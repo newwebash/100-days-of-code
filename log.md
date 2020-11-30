@@ -473,6 +473,19 @@ been interested in making for awhile now.
 **Link(s) to work**: My new [recipe app repo](https://github.com/newwebash/recipe-app)
 
 
+### Day 34:
+
+**Today's Progress**: Made lots of progress on creating and MVP of my recipe app! 
+I've set up an API call to Spoonacular, and am so far able to successfully retrieve
+and print the title of a random recipe. But I'm now trying to retrieve and print
+the ingredients and getting stuck.
+
+**Thoughts**: It feels like I'm soooo close to getting unstuck but I just can't
+seem to figure out what's not working. I've decided it's best to walk away for
+awhile and come back to it later.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/recipe-app/pull/2)
+
 
 ### Day X:
 
