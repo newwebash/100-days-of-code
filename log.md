@@ -473,7 +473,7 @@ been interested in making for awhile now.
 **Link(s) to work**: My new [recipe app repo](https://github.com/newwebash/recipe-app)
 
 
-### Day 34:
+### Day 34: November 30, 2020
 
 **Today's Progress**: Made lots of progress on creating and MVP of my recipe app! 
 I've set up an API call to Spoonacular, and am so far able to successfully retrieve
@@ -485,6 +485,22 @@ seem to figure out what's not working. I've decided it's best to walk away for
 awhile and come back to it later.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/recipe-app/pull/2)
+
+
+### Day 35: December 1, 2020
+
+**Today's Progress**: I was able to complete what I consider the MVP for my
+recipe app! I created a release in GitHub for v1.0: Appetizr.
+
+I also started working on deploying it to GitHub pages, using
+a custom domain name. This part's kinda stalled though. . .hopefully just
+because it needs time to propogate.
+
+**Thoughts**: This is hugely exciting! I'm seriously stoked!!!!
+
+**Link(s) to work**: Screenshot instead:
+
+<img src="images/recipe-app-mvp-1Dec20.PNG" alt="screenshot of my recipe app as of today">
 
 
 ### Day X:
