@@ -475,7 +475,7 @@ been interested in making for awhile now.
 
 ### Day 34: November 30, 2020
 
-**Today's Progress**: Made lots of progress on creating and MVP of my recipe app! 
+**Today's Progress**: Made lots of progress on creating and MVP of my recipe app!
 I've set up an API call to Spoonacular, and am so far able to successfully retrieve
 and print the title of a random recipe. But I'm now trying to retrieve and print
 the ingredients and getting stuck.
@@ -501,6 +501,18 @@ because it needs time to propogate.
 **Link(s) to work**: Screenshot instead:
 
 <img src="images/recipe-app-mvp-1Dec20.PNG" alt="screenshot of my recipe app as of today">
+
+
+### Day 36: December 2, 2020
+
+**Today's Progress**: I took a break from developing my recipe app. However,
+I spent time reading code and researching conceptual information about JavaScript.
+I did not merge any code.
+
+**Thoughts**: I've been focused mostly on CSS and learning Vue, as well as
+learning the basics of OOP. After reading some code today I realize I've gotten
+rusty with writing algorithms, so I want to make sure I keep up with this
+every so often.
 
 
 ### Day X:
