@@ -515,6 +515,25 @@ rusty with writing algorithms, so I want to make sure I keep up with this
 every so often.
 
 
+### Day 37: December 3, 2020
+
+**Today's Progress**: Did some reading on the primary differences between Java and
+JavaScript. Also created my first Vue component but haven't done anything with it!
+
+**Thoughts**: I'm finding it very helpful to take a step back and get a higher-level
+view of JavaScript as it compares to Java.
+
+**Link(s) to work**:
+
+These aren't my work but here are two articles I found very helpful:
+
+1. [JavaScript Prototypal Inheritance](https://coryrylan.com/blog/javascript-prototypal-inheritance)
+2. [JavaScript Module Pattern Basics](https://coryrylan.com/blog/javascript-module-pattern-basics)
+
+And finally, today's [PR](https://github.com/newwebash/recipe-app/pull/6)
+
+
+
 ### Day X:
 
 **Today's Progress**:
