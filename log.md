@@ -534,6 +534,23 @@ And finally, today's [PR](https://github.com/newwebash/recipe-app/pull/6)
 
 
 
+### Day 38: December 4, 2020
+
+**Today's Progress**: Made more progress on building out some components
+(and nested sub-components) but they're all super hacky and not functional.
+
+**Thoughts**: I'm glad I've made some progress but frustrated at how slow
+it feels like this is going.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/recipe-app/pull/7)
+
+**Links to helpful resources I used today**: 
+
+1. [Vue Essentials Cheat Sheet](https://github.com/newwebash/recipe-app/pull/7)
+2. [Vue School - Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
+3. [Codementor - Why You Should Avoid Vue.js DOM Templates](https://www.codementor.io/@vuejsdevelopers/why-you-should-avoid-vue-js-dom-templates-c4chvgjlh)
+
+
 ### Day X:
 
 **Today's Progress**:
