@@ -551,6 +551,19 @@ it feels like this is going.
 3. [Codementor - Why You Should Avoid Vue.js DOM Templates](https://www.codementor.io/@vuejsdevelopers/why-you-should-avoid-vue-js-dom-templates-c4chvgjlh)
 
 
+
+### Day 39: December 5, 2020
+
+**Today's Progress**: Ugh I've been stuck all day trying to debug my new
+components. I've been working on this for hours and just need to take a
+break.
+
+**Thoughts**: Feeling frustrated! I hope this pays off, haha.
+
+**Link(s) to work**: Haven't merged any code today :(
+
+
+
 ### Day X:
 
 **Today's Progress**:
