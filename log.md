@@ -563,6 +563,32 @@ break.
 **Link(s) to work**: Haven't merged any code today :(
 
 
+### Day 40: December 6, 2020
+
+**Today's Progress**: Later on yesterday, I opened a post on the VueJS forum.
+Today I was waiting for responses and also just doing some background research
+on different JavaScript concepts that might help lead to an aha! moment.
+Did not merge any code.
+
+**Thoughts**: Still a little frustrated but hopeful I'll push through. . .
+just need to equip myself with the right knowledge.
+
+
+
+### Day 41: December 7, 2020
+
+**Today's Progress**: I received a couple of responses to my forum post
+but they're not the most encouraging. In the same vein as yesterday,
+I'm doing more research into general JS concepts to hopefully
+better understand the context around my issue. I started a Udacity
+course: JavaScript Design Patterns and am now working on a cat
+clicker app as I follow along.
+
+**Thoughts**: I'm actually feeling a surge of energy today as I
+work on this new course. I've already learned a ton since yesterday!
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/1)
+
 
 ### Day X:
 
