@@ -590,6 +590,17 @@ work on this new course. I've already learned a ton since yesterday!
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/1)
 
 
+### Day 42: December 8, 2020
+
+**Today's Progress**: Refactored the way I populate cat info into my
+HTML DOM. It's now completely dynamic - nothing is hardcoded.
+
+**Thoughts**: This is fun! Unfortunately now the clicker is broken
+but I can fix that later.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/2)
+
+
 ### Day X:
 
 **Today's Progress**:
