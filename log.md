@@ -461,7 +461,7 @@ tired!
 2. Use jQuery to implement smooth scroll - [PR](https://github.com/newwebash/fcc-product-landing-page/pull/19)
 
 
-### Day 33:
+### Day 33: November 29, 2020
 
 **Today's Progress**: Almost finished Vue course. Based on what I've learned so
 far, I've started converting my tech docs theme last week to a Vue template.
@@ -544,7 +544,7 @@ it feels like this is going.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/recipe-app/pull/7)
 
-**Links to helpful resources I used today**: 
+**Links to helpful resources I used today**:
 
 1. [Vue Essentials Cheat Sheet](https://github.com/newwebash/recipe-app/pull/7)
 2. [Vue School - Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
@@ -599,6 +599,13 @@ HTML DOM. It's now completely dynamic - nothing is hardcoded.
 but I can fix that later.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/2)
+
+
+### Day 43: December 9, 2020
+
+**Today's Progress**: Got back to working on Vue and learning a lot!
+
+**Thoughts**: I'm verily stoked to be making this much progress!
 
 
 ### Day X:
