@@ -608,6 +608,29 @@ but I can fix that later.
 **Thoughts**: I'm verily stoked to be making this much progress!
 
 
+### Day 44: December 10, 2020
+
+**Today's Progress**: First focused on styling my to-do list app, which
+looks waaaaay better now than it did before! At this point I had my basic MVP.
+
+I also started migrating list item html to a component but got stuck.
+
+**Thoughts**: Relieved to have my basic MVP complete but frustrated about
+some confusing issues related to components and props.
+
+
+### Day 45: December 11, 2020
+
+**Today's Progress**: Woooo!! I was able to get unstuck and finished my
+component - it's now fully functional! I was also able to implement saving
+list data between sessions!
+
+**Thoughts**: Life is good! :D
+
+**Link(s) to work**: This isn't my work but here's a Mozilla article about
+client-side storage that I found crazy helpful: [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+
+
 ### Day X:
 
 **Today's Progress**:
