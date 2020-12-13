@@ -631,6 +631,26 @@ list data between sessions!
 client-side storage that I found crazy helpful: [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 
 
+### Day 46: December 12, 2020
+
+**Today's Progress**: Moved more html elements to components, and fixed some bugs.
+
+**Thoughts**: It'd  be great to make more progress on features but I want to
+get some of the code in a better state first.
+
+
+### Day 47: December 13, 2020
+
+**Today's Progress**: Worked on applying animations and transitions!
+
+**Thoughts**: The animations were relatively straightforward but the transition
+was surprisingly difficult and frustrating. Anyway, I'm glad I made as much
+progress as I did today but it'll be good to have a break for now until
+tomorrow!
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/todo-list/commit/b79915415674bd3e7551e0b35431b2bc5f9ec5c2)
+
+
 ### Day X:
 
 **Today's Progress**:
