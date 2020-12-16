@@ -648,7 +648,26 @@ was surprisingly difficult and frustrating. Anyway, I'm glad I made as much
 progress as I did today but it'll be good to have a break for now until
 tomorrow!
 
-**Link(s) to work**: Today's [PR](https://github.com/newwebash/todo-list/commit/b79915415674bd3e7551e0b35431b2bc5f9ec5c2)
+
+### Day 48: December 14, 2020
+
+**Today's Progress**: Fixed a few bugs and added enhancements using Vue.
+
+**Thoughts**: I'm feeling increasingly comfortable with Vue. However, towards
+the end of the day I got stuck and I guess I just need to learn more about
+how different components communicate with each other, or what the best practices
+are surrounding this.
+
+
+### Day 49: December 15, 2020
+
+**Today's Progress**: Made lots of small improvements to try to improve the
+look and feel of my app, as well as to clean up code in line with the DRY
+principle.
+
+**Thoughts**: I'm impressed with how much I've done in the last week, but
+am also feeling kinda drained! I can't believe I'm almost halfway through my
+100 days of code!
 
 
 ### Day X:
