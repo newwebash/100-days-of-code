@@ -670,6 +670,27 @@ am also feeling kinda drained! I can't believe I'm almost halfway through my
 100 days of code!
 
 
+### Day 50: December 16, 2020  **HALFWAY THROUGH 100 DAYS!!!**
+
+**Today's Progress**: Attempted to refactor my VueJS code to build in some
+more reusability, but it didn't work out.
+
+**Thoughts**: It's hard sometimes to manage your energy when working on
+code. . .you start working on something that turns out to be way harder
+than you expected. Suddenly a few hours have gone by and you're exausted!
+
+
+### Day 51: December 17, 2020
+
+**Today's Progress**: Decided to take a break from my VueJS project so
+I have some time to decompress. I started learning about Cypress for
+E2E testing.
+
+**Thoughts**: Although I felt less productive today than most other
+days in the last week, I really needed a day off from intense focus on 
+my Vue project!
+
+
 ### Day X:
 
 **Today's Progress**:
