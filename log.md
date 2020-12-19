@@ -691,6 +691,19 @@ days in the last week, I really needed a day off from intense focus on
 my Vue project!
 
 
+### Day 52: December 18, 2020
+
+**Today's Progress**: Still taking a break from my Vue project, I got
+back to work on my Cat Clicker app. I was able to resolve the issue
+I was having with my event listener, and then worked on adding some
+CSS animations.
+
+**Thoughts**: Although there's a benefit to focusing on one thing at
+a time as a general habit, I'm finding it's also really important to
+have some variety. . .sometimes you have to walk away from a problem
+for awhile for the solution to come to you.
+
+
 ### Day X:
 
 **Today's Progress**:
