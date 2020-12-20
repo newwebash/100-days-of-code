@@ -704,6 +704,16 @@ have some variety. . .sometimes you have to walk away from a problem
 for awhile for the solution to come to you.
 
 
+### Day 53: December 19, 2020
+
+**Today's Progress**: Made more progress on Cat Clicker app - was
+able to implement side picker so users can select one cat / counter to
+display at a time.
+
+**Thoughts**: Now that I made it past a big hurdle with this project
+yesterday, I'm having fun with it again!
+
+
 ### Day X:
 
 **Today's Progress**:
