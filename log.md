@@ -714,6 +714,19 @@ display at a time.
 yesterday, I'm having fun with it again!
 
 
+### Day 54: December 20, 2020
+
+**Today's Progress**: Made progress on my JS design patterns course,
+specifically I learned about the VMC and MVVM models.
+
+**Thoughts**: This like, blew my mind! I have see these models in action
+before but didn't understand what they were. Similarly, when I had heard
+people talk about MVVM before, even after Googling it I didn't really
+grasp what it meant. But now it's all coming together!
+
+Anyway, I'm excited to use this to organize my Vanilla JS code.
+
+
 ### Day X:
 
 **Today's Progress**:
