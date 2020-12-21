@@ -727,6 +727,17 @@ grasp what it meant. But now it's all coming together!
 Anyway, I'm excited to use this to organize my Vanilla JS code.
 
 
+### Day 55: December 21, 2020
+
+**Today's Progress**: Started refactoring Cat Clicker based on MVC but
+it's currently broken :(
+
+**Thoughts**: I'm excited that my code will be insanely cleaner after I
+finish refactoring, and I've made lots of progress, but for now have
+also introduced a regression and it's a bit of a headache so I'm taking
+a break.
+
+
 ### Day X:
 
 **Today's Progress**:
