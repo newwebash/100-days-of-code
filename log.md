@@ -738,6 +738,29 @@ also introduced a regression and it's a bit of a headache so I'm taking
 a break.
 
 
+### Day 56: December 22, 2020
+
+**Today's Progress**: Finished refactoring Cat Clicker and am so relieved
+my code is more organized!
+
+**Thoughts**: I feel like there's so much more I can do now that I know
+how to structure code, similar to how I might structure a document!
+
+
+### Day 57: December 23, 2020
+
+**Today's Progress**: Started working on Cat Clicker Premium Pro, which
+includes an admin section that's hidden by default. I've added a button
+that toggles the form off and on, but currently the form isn't
+functional.
+
+I've also added some funky styles and animations!
+
+**Thoughts**: This is so much easier now that my code is organized!
+
+**Link(s) to helpful resources**: [w3schools: How TO - Toggle Class](https://www.w3schools.com/howto/howto_js_toggle_class.asp)
+
+
 ### Day X:
 
 **Today's Progress**:
