@@ -761,6 +761,17 @@ I've also added some funky styles and animations!
 **Link(s) to helpful resources**: [w3schools: How TO - Toggle Class](https://www.w3schools.com/howto/howto_js_toggle_class.asp)
 
 
+### Day 58: December 24, 2020
+
+**Today's Progress**: Completed my work on the admin section - it's now
+functional!
+
+**Thoughts**: This was fun and seriously so much simpler now that I have
+this mental model of how my code should be structured.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/7)
+
+
 ### Day X:
 
 **Today's Progress**:
