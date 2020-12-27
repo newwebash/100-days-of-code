@@ -772,6 +772,20 @@ this mental model of how my code should be structured.
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/7)
 
 
+### Day 59: December 26, 2020
+
+**Today's Progress**: Fixed some bugs in my Admin form in Cat Clicker, also
+refactored code so the cat picker has its own view. Now there are three
+views in this app's code!
+
+**Thoughts**: It was kinda surprising how many bugs this introduced, and
+how there was a cascading effect of other pieces of code I needed to update
+to accommodate the Admin funcionality. For example, I realized that
+after re-naming a cat that the cat picker didn't automatically update, so
+I had to take some time to enable that. It's just something I hadn't
+fully thought through in advance, I guess!
+
+
 ### Day X:
 
 **Today's Progress**:
