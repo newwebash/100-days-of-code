@@ -786,6 +786,30 @@ I had to take some time to enable that. It's just something I hadn't
 fully thought through in advance, I guess!
 
 
+### Day 60: December 27, 2020
+
+**Today's Progress**: Started refactoring someone else's code! Actually,
+nuking it and rebuilding.
+
+**Thoughts**: I'm learning a lot about my own code by working with someone
+else's.
+
+Also I can't believe I'm on day 60!
+
+
+### Day 61: December 28, 2020
+
+**Today's Progress**: Continued refactoring someone else's code. Also
+learned a little about Knockout, as well as differences between JS
+libraries and frameworks.
+
+I did not merge any code today.
+
+**Thoughts**: Since I've already worked with Vue in the past, now that
+I'm connecting the dots between the MVC model I used in Cat Clicker
+and the structure I used for my Vue app, I'm having an aha! moment!
+
+
 ### Day X:
 
 **Today's Progress**:
