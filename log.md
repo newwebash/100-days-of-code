@@ -810,6 +810,15 @@ I'm connecting the dots between the MVC model I used in Cat Clicker
 and the structure I used for my Vue app, I'm having an aha! moment!
 
 
+### Day 62: December 29, 2020
+
+**Today's Progress**: Learned some more Knockout JS.
+
+**Thoughts**: While it's interesting to learn about KO, it's just not
+the framework I'm most interested so I feel a little lukewarm about
+taking time away from Vue to learn it.
+
+
 ### Day X:
 
 **Today's Progress**:
