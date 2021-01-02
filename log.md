@@ -819,6 +819,26 @@ the framework I'm most interested so I feel a little lukewarm about
 taking time away from Vue to learn it.
 
 
+### Day 63: December 30, 2020
+
+**Today's Progress**: Implemented levels and added nicknames to Cat Clicker.
+
+**Thoughts**: I'll be honest, I'm a little distracted because I'm reading
+an insanely good book and I wanna get back to it!
+
+
+### Day 64: January 1, 2021
+
+**Today's Progress**: Refactored data bindings using `"with"` as well as the
+`$parent` binding context.
+
+**Thoughts**: I'm glad I figured this out today because it felt daunting
+on Wednesday!
+
+I'm also relieved because I finished the book I was reading so I can return
+my full attention to my coding projects.
+
+
 ### Day X:
 
 **Today's Progress**:
