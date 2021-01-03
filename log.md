@@ -839,6 +839,15 @@ I'm also relieved because I finished the book I was reading so I can return
 my full attention to my coding projects.
 
 
+### Day 65: January 2, 2021
+
+**Today's Progress**: Picked back up where I left off yesterday and implemented
+some more Knockout trickery - specifically, adding all of my cats to an
+array and displaying the cat list on the page.
+
+**Thoughts**: I really like this Udacity course!
+
+
 ### Day X:
 
 **Today's Progress**:
