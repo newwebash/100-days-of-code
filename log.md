@@ -848,6 +848,22 @@ array and displaying the cat list on the page.
 **Thoughts**: I really like this Udacity course!
 
 
+### Day 66: January 3, 2021
+
+**Today's Progress**: Made yesterday's cat list funtional, so now you can click
+on a cat's name to display the cat on the page.
+
+I also started learning about Backbone.js and served a backbone app on my local
+Xampp server.
+
+**Thoughts**: I'm pretty excited to be getting some exposure to Backbone, which
+seems to be pretty popular!
+
+**Link(s) to useful resources**: I found this article very helpful today:
+
+[Why You Need a Local Testing Server (and How To Do It)](http://www.dwuser.com/education/content/why-you-need-a-testing-server-and-how-to-do-it/)
+
+
 ### Day X:
 
 **Today's Progress**:
