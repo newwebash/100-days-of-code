@@ -864,6 +864,32 @@ seems to be pretty popular!
 [Why You Need a Local Testing Server (and How To Do It)](http://www.dwuser.com/education/content/why-you-need-a-testing-server-and-how-to-do-it/)
 
 
+### Day 67: January 4, 2021
+
+**Today's Progress**: Added some features to the Backbone-based todo-list app
+provided by Udacity.
+
+**Thoughts**: This was fun and easy. . .maybe deceptively so?
+
+
+### Day 68: January 5, 2021
+
+**Today's Progress**: I completed my Udacity JavaScript Design Patterns course
+and started working on their Object-Oriented JS course.
+
+I also spent a bit of time started to add an edit button feature to my own to-do
+list app, the one written in Vue.
+
+**Thoughts**: I'm surprised to say this but so far most of the OOP course is
+review!
+
+Now that I've taken a break from Vue for awhile, I do of course have some mental
+lag due to context-switching. So it's actually a really good thing that I'm
+picking it back up. I don't wanna get rusty!
+
+**Link(s) to work**:
+
+
 ### Day X:
 
 **Today's Progress**:
