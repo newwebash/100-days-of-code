@@ -887,7 +887,31 @@ Now that I've taken a break from Vue for awhile, I do of course have some mental
 lag due to context-switching. So it's actually a really good thing that I'm
 picking it back up. I don't wanna get rusty!
 
-**Link(s) to work**:
+
+### Day 69: January 6, 2021
+
+**Today's Progress**: Continued working on OOP JS course but didn't merge any 
+code.
+
+**Thoughts**: I'm learning a lot but getting antsy because this course doesn't
+include any hands-on project. I'm torn between sticking with it and working on
+my own projects some more.
+
+
+### Day 70: January 7, 2021
+
+**Today's Progress**: Continued OOP JS course but also spent some time rsearching
+UX Design and critiquing a friend's website.
+
+**Thoughts**: Still feeling antsy. It's hard to find the right balance because
+when I'm learning about concepts, I feel like I'm not getting enough done. When
+I'm focused on just coding, I get stuck and would probably be able to get unstuck 
+more easily if I have more knowledge.
+
+Actually, as I go through this OOP class, I see tons of stuff that I was already
+using in my projects but didn't really understand how or why it worked. So this
+is helping connect the dots, which is great, but I still feel like I'm not being
+productive enough.
 
 
 ### Day X:
