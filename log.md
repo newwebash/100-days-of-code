@@ -914,6 +914,22 @@ is helping connect the dots, which is great, but I still feel like I'm not being
 productive enough.
 
 
+### Day 71: January 8, 2021
+
+**Today's Progress**: Continued my OOP JS course and applied some of my new knowledge
+to refactor some code in my Cat Clicker project.
+
+**Thoughts**: It's a very good thing that I'm trying to apply what I've learned.
+It's one thing to read about something or see someone else demo it - it's much
+different to actually write the code and figure out how the concepts work in practice.
+
+Even now, I'm trying to implement some of the stuff I've learned and I'm running into
+challenges. The solution I have in place is an improvement from before, but it's
+hacky and I need to work on it more.
+
+**Link(s) to work**:
+
+
 ### Day X:
 
 **Today's Progress**:
