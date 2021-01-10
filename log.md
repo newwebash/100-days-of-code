@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: October 27, 2020
+
 **Today's Progress**: Applied styles to Michelle Obama tribute page in FCC
 responsive web design challenge.
 
@@ -25,7 +26,6 @@ it just didn't fit the challenge brief.
 2. [PR 7](https://github.com/newwebash/fcc-tribute-page/pull/7) and [PR 5](https://github.com/newwebash/fcc-tribute-page/pull/5)
 3. [Live site on Codepen](https://codepen.io/NewWebAsh/pen/MWerNqq)
 
-
 ### Day 3: October 29, 2020
 
 **Today's Progress**: Started working on the Survey Form challenge.
@@ -35,6 +35,7 @@ riding a bike - I just have to glance at the documentation for a refresher on
 things, but it's all coming back.
 
 **Link(s) to work**
+
 1. [Source code in new repo](https://github.com/newwebash/fcc-survey-form)
 
 **Screenshot**
@@ -42,8 +43,6 @@ things, but it's all coming back.
 Here's where I left off today:
 
 <img src="images/fcc-survey-form-29Oct20.PNG" alt="screenshot of survey site">
-
-
 
 ### Day 4: October 30, 2020
 
@@ -71,7 +70,6 @@ any code.
 **Thoughts**: I've used this stuff before but it's been awhile, so it's good
 to review. I think that layout is the toughest part about CSS, in my experience.
 
-
 ### Day 6: November 1, 2020
 
 **Today's Progress**: Adjusted survey form layout using CSS grid but it looks
@@ -83,7 +81,6 @@ up.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-survey-form/pull/5)
 
-
 ### Day 7: November 2, 2020
 
 **Today's Progress**: Made lots of progress on adjusting layout using a combo
@@ -94,6 +91,7 @@ to make some adjustments to my HTML markup before I can submit it.
 I encountered after some more effort!
 
 **Link(s) to work**:
+
 1. [Source code in CodePen](https://codepen.io/NewWebAsh/pen/GRqdweX)
 
 **Screenshot**
@@ -101,7 +99,6 @@ I encountered after some more effort!
 Here's the finished layout on a large screen:
 
 <img src="images/fcc-survey-form-2Nov20.PNG" alt="screenshot of survey site">
-
 
 ### Day 8: November 3, 2020
 
@@ -120,7 +117,6 @@ I'm also not feeling 100% today, so I feel a little slow getting things going.
 
 **Link(s) to work**: First commit to new repo: https://github.com/newwebash/fcc-product-landing-page/commit/41df22410e9d22381b1ee710e3451653c28f7019
 
-
 ### Day 9: November 4, 2020
 
 **Today's Progress**: Finished adding minimum required html elements to landing
@@ -132,7 +128,6 @@ time with these basic front-end projects so I can use them as building blocks
 for future projects.
 
 **Link(s) to work**: Today's [latest PR](https://github.com/newwebash/fcc-product-landing-page/commit/7d40df14f5dffea1deaeb84b1847fc854dd906c8)
-
 
 ### Day 10: November 5, 2020
 
@@ -146,7 +141,6 @@ so much progress today!
 
 **Link(s) to work**: Today's [latest commit](https://github.com/newwebash/fcc-product-landing-page/commit/b3b6ad4e8ba03152d686fba2348bfdd5fc46775b)
 
-
 ### Day 11: November 6, 2020
 
 **Today's Progress**: I more or less finalized the header nav on mobile, then
@@ -159,7 +153,6 @@ way I want, and it looks great!
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/4)
 
-
 ### Day 12: November 7, 2020
 
 **Today's Progress**: Finished the basic layout for small mobile screens. There's
@@ -169,7 +162,6 @@ as of now!
 **Thoughts**: It's so exciting to see things coming together!
 
 **Link(s) to work**: Day's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/6)
-
 
 ### Day 13: November 8, 2020
 
@@ -182,7 +174,6 @@ every adjustment I made had unintended effects. I decided after awhile to take
 a break, clear my head, and hopefully see it with a fresh set of eyes tomorrow morning.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/7)
-
 
 ### Day 14: November 9, 2020
 
@@ -201,7 +192,6 @@ I'm happy with the net one step made forward!
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/7)
 
-
 ### Day 15: November 10, 2020
 
 **Today's Progress**: Finished layout for pricing section on larger mobile screen.
@@ -211,7 +201,6 @@ priorities. I'm glad I was able to spend an hour working on this but I really
 need more time to focus in order to make progress.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/8)
-
 
 ### Day 16: November 11, 2020
 
@@ -233,9 +222,7 @@ and unwieldy, it seems like I fix one thing and another thing breaks.
 Anyway, at least I'm learning from this and can experiment with my idea next
 time I build a site.
 
-
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/9)
-
 
 ### Day 17: November 12, 2020
 
@@ -246,7 +233,6 @@ will be needed after I do the layout for larger screens, anyway.
 **Thoughts**: Same as other days: CSS can be both fun and frustrating.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/10)
-
 
 ### Day 18: November 13, 2020
 
@@ -268,10 +254,9 @@ one's high-quality, so I'll take the time that I need.
 
 3. Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/12)
 
-
 ### Day 19: November 14, 2020
 
-**Today's Progress**: I  believe I'm done with all significant layout styles!!!
+**Today's Progress**: I believe I'm done with all significant layout styles!!!
 Tomorrow I want to go through and make sure all of the project user stories are
 complete, and do some (hopefully) final testing before I can submit this project
 and move on to the next one!
@@ -281,7 +266,6 @@ dev console in FF was way more helpful than the one in Chrome, at least for
 CSS Flexbox.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/13)
-
 
 ### Day 20: November 15, 2020
 
@@ -295,7 +279,6 @@ big of a lift to make the fixes to pass those tests.
 
 **Link(s) to work**: My project in [Codepen](https://codepen.io/NewWebAsh/full/GRqeRbb)
 
-
 ### Day 21: November 16, 2020
 
 **Today's Progress**: Modified HTML markup to pass automated tests, also
@@ -304,7 +287,6 @@ modified css based on feedback from CSS Linter.
 **Thoughts**: It's a great day!
 
 **Link(s) to work**: My updated project [readme](https://github.com/newwebash/fcc-product-landing-page#fcc-product-landing-page)
-
 
 ### Day 22: November 17, 2020
 
@@ -322,7 +304,6 @@ to make sure this one's correct.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/17)
 
-
 ### Day 23: November 18, 2020
 
 **Today's Progress**: Finished refactoring CSS to avoid linking styles
@@ -335,7 +316,6 @@ proactive about best practices like DRY from the beginning as I move on to the
 next project.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/18)
-
 
 ### Day 24: November 19, 2020
 
@@ -352,7 +332,6 @@ I'm trying to follow the guidelines in this article: [BEM for Beginners](https:/
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-tech-docs-page/pull/2)
 
-
 ### Day 25: November 20, 2020
 
 **Today's Progress**: Made lots of progress on styling the nav. I also created
@@ -363,14 +342,12 @@ very helpful!
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-tech-docs-page/pull/3)
 
-
 ### Day 26: November 21, 2020
 
 **Today's Progress**: Changed main element positioning using flexbox. Site is
 more or less complete, at least according to the required user stories.
 
 **Thoughts**: It's a relief to fix those pesky layout issues!
-
 
 ### Day 27: November 22, 2020
 
@@ -387,7 +364,6 @@ projects for now.
 2. Screenshot:
 
    <img src="images/tech-docs-site-screenshot.PNG" alt="technical documentation webpage screenshot">
-
 
 ### Day 28: November 23, 2020
 
@@ -408,7 +384,6 @@ relatively similar to what I've seen when working with static site generators.
 **Link(s) to work**: I haven't merged any code today, and the dev work I'm doing
 so far is on my local server.
 
-
 ### Day 29: November 24, 2020
 
 **Today's Progress**: Since yesterday I started having to work with PHP, and
@@ -421,7 +396,6 @@ curriculum to learn about PHP. I hope it doesn't slow me down!
 **Link(s) to work**: I've created [this repo](https://github.com/newwebash/php_essentials)
 to host my course files.
 
-
 ### Day 30: November 25, 2020
 
 **Today's Progress**: Continued working through PHP Essentials course, mostly
@@ -431,7 +405,6 @@ just learning basic syntax.
 transfer that knowledge to other technologies. PHP syntax is pretty easy given
 that it's just a different flavor of many of the things I've already learned
 through my C and Java courses.
-
 
 ### Day 31: November 27, 2020
 
@@ -443,7 +416,6 @@ Vue's not covered in the FCC curriculum.
 am thinking of how I could implement it for my own app!
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/learning-vuejs/pull/1)
-
 
 ### Day 32: November 28, 2020
 
@@ -460,7 +432,6 @@ tired!
 1. Updates from latest Vue.js lessons - [PR](https://github.com/newwebash/learning-vuejs/pull/2)
 2. Use jQuery to implement smooth scroll - [PR](https://github.com/newwebash/fcc-product-landing-page/pull/19)
 
-
 ### Day 33: November 29, 2020
 
 **Today's Progress**: Almost finished Vue course. Based on what I've learned so
@@ -471,7 +442,6 @@ been interested in making for awhile now.
 **Thoughts**: This is really exciting!
 
 **Link(s) to work**: My new [recipe app repo](https://github.com/newwebash/recipe-app)
-
 
 ### Day 34: November 30, 2020
 
@@ -485,7 +455,6 @@ seem to figure out what's not working. I've decided it's best to walk away for
 awhile and come back to it later.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/recipe-app/pull/2)
-
 
 ### Day 35: December 1, 2020
 
@@ -502,7 +471,6 @@ because it needs time to propogate.
 
 <img src="images/recipe-app-mvp-1Dec20.PNG" alt="screenshot of my recipe app as of today">
 
-
 ### Day 36: December 2, 2020
 
 **Today's Progress**: I took a break from developing my recipe app. However,
@@ -513,7 +481,6 @@ I did not merge any code.
 learning the basics of OOP. After reading some code today I realize I've gotten
 rusty with writing algorithms, so I want to make sure I keep up with this
 every so often.
-
 
 ### Day 37: December 3, 2020
 
@@ -532,8 +499,6 @@ These aren't my work but here are two articles I found very helpful:
 
 And finally, today's [PR](https://github.com/newwebash/recipe-app/pull/6)
 
-
-
 ### Day 38: December 4, 2020
 
 **Today's Progress**: Made more progress on building out some components
@@ -550,8 +515,6 @@ it feels like this is going.
 2. [Vue School - Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
 3. [Codementor - Why You Should Avoid Vue.js DOM Templates](https://www.codementor.io/@vuejsdevelopers/why-you-should-avoid-vue-js-dom-templates-c4chvgjlh)
 
-
-
 ### Day 39: December 5, 2020
 
 **Today's Progress**: Ugh I've been stuck all day trying to debug my new
@@ -562,7 +525,6 @@ break.
 
 **Link(s) to work**: Haven't merged any code today :(
 
-
 ### Day 40: December 6, 2020
 
 **Today's Progress**: Later on yesterday, I opened a post on the VueJS forum.
@@ -572,8 +534,6 @@ Did not merge any code.
 
 **Thoughts**: Still a little frustrated but hopeful I'll push through. . .
 just need to equip myself with the right knowledge.
-
-
 
 ### Day 41: December 7, 2020
 
@@ -589,7 +549,6 @@ work on this new course. I've already learned a ton since yesterday!
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/1)
 
-
 ### Day 42: December 8, 2020
 
 **Today's Progress**: Refactored the way I populate cat info into my
@@ -600,13 +559,11 @@ but I can fix that later.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/2)
 
-
 ### Day 43: December 9, 2020
 
 **Today's Progress**: Got back to working on Vue and learning a lot!
 
 **Thoughts**: I'm verily stoked to be making this much progress!
-
 
 ### Day 44: December 10, 2020
 
@@ -617,7 +574,6 @@ I also started migrating list item html to a component but got stuck.
 
 **Thoughts**: Relieved to have my basic MVP complete but frustrated about
 some confusing issues related to components and props.
-
 
 ### Day 45: December 11, 2020
 
@@ -630,14 +586,12 @@ list data between sessions!
 **Link(s) to work**: This isn't my work but here's a Mozilla article about
 client-side storage that I found crazy helpful: [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 
-
 ### Day 46: December 12, 2020
 
 **Today's Progress**: Moved more html elements to components, and fixed some bugs.
 
-**Thoughts**: It'd  be great to make more progress on features but I want to
+**Thoughts**: It'd be great to make more progress on features but I want to
 get some of the code in a better state first.
-
 
 ### Day 47: December 13, 2020
 
@@ -648,7 +602,6 @@ was surprisingly difficult and frustrating. Anyway, I'm glad I made as much
 progress as I did today but it'll be good to have a break for now until
 tomorrow!
 
-
 ### Day 48: December 14, 2020
 
 **Today's Progress**: Fixed a few bugs and added enhancements using Vue.
@@ -657,7 +610,6 @@ tomorrow!
 the end of the day I got stuck and I guess I just need to learn more about
 how different components communicate with each other, or what the best practices
 are surrounding this.
-
 
 ### Day 49: December 15, 2020
 
@@ -669,8 +621,7 @@ principle.
 am also feeling kinda drained! I can't believe I'm almost halfway through my
 100 days of code!
 
-
-### Day 50: December 16, 2020  **HALFWAY THROUGH 100 DAYS!!!**
+### Day 50: December 16, 2020 **HALFWAY THROUGH 100 DAYS!!!**
 
 **Today's Progress**: Attempted to refactor my VueJS code to build in some
 more reusability, but it didn't work out.
@@ -679,7 +630,6 @@ more reusability, but it didn't work out.
 code. . .you start working on something that turns out to be way harder
 than you expected. Suddenly a few hours have gone by and you're exausted!
 
-
 ### Day 51: December 17, 2020
 
 **Today's Progress**: Decided to take a break from my VueJS project so
@@ -687,9 +637,8 @@ I have some time to decompress. I started learning about Cypress for
 E2E testing.
 
 **Thoughts**: Although I felt less productive today than most other
-days in the last week, I really needed a day off from intense focus on 
+days in the last week, I really needed a day off from intense focus on
 my Vue project!
-
 
 ### Day 52: December 18, 2020
 
@@ -703,7 +652,6 @@ a time as a general habit, I'm finding it's also really important to
 have some variety. . .sometimes you have to walk away from a problem
 for awhile for the solution to come to you.
 
-
 ### Day 53: December 19, 2020
 
 **Today's Progress**: Made more progress on Cat Clicker app - was
@@ -712,7 +660,6 @@ display at a time.
 
 **Thoughts**: Now that I made it past a big hurdle with this project
 yesterday, I'm having fun with it again!
-
 
 ### Day 54: December 20, 2020
 
@@ -726,7 +673,6 @@ grasp what it meant. But now it's all coming together!
 
 Anyway, I'm excited to use this to organize my Vanilla JS code.
 
-
 ### Day 55: December 21, 2020
 
 **Today's Progress**: Started refactoring Cat Clicker based on MVC but
@@ -737,7 +683,6 @@ finish refactoring, and I've made lots of progress, but for now have
 also introduced a regression and it's a bit of a headache so I'm taking
 a break.
 
-
 ### Day 56: December 22, 2020
 
 **Today's Progress**: Finished refactoring Cat Clicker and am so relieved
@@ -745,7 +690,6 @@ my code is more organized!
 
 **Thoughts**: I feel like there's so much more I can do now that I know
 how to structure code, similar to how I might structure a document!
-
 
 ### Day 57: December 23, 2020
 
@@ -760,7 +704,6 @@ I've also added some funky styles and animations!
 
 **Link(s) to helpful resources**: [w3schools: How TO - Toggle Class](https://www.w3schools.com/howto/howto_js_toggle_class.asp)
 
-
 ### Day 58: December 24, 2020
 
 **Today's Progress**: Completed my work on the admin section - it's now
@@ -770,7 +713,6 @@ functional!
 this mental model of how my code should be structured.
 
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/cat-clicker/pull/7)
-
 
 ### Day 59: December 26, 2020
 
@@ -785,7 +727,6 @@ after re-naming a cat that the cat picker didn't automatically update, so
 I had to take some time to enable that. It's just something I hadn't
 fully thought through in advance, I guess!
 
-
 ### Day 60: December 27, 2020
 
 **Today's Progress**: Started refactoring someone else's code! Actually,
@@ -795,7 +736,6 @@ nuking it and rebuilding.
 else's.
 
 Also I can't believe I'm on day 60!
-
 
 ### Day 61: December 28, 2020
 
@@ -809,7 +749,6 @@ I did not merge any code today.
 I'm connecting the dots between the MVC model I used in Cat Clicker
 and the structure I used for my Vue app, I'm having an aha! moment!
 
-
 ### Day 62: December 29, 2020
 
 **Today's Progress**: Learned some more Knockout JS.
@@ -818,14 +757,12 @@ and the structure I used for my Vue app, I'm having an aha! moment!
 the framework I'm most interested so I feel a little lukewarm about
 taking time away from Vue to learn it.
 
-
 ### Day 63: December 30, 2020
 
 **Today's Progress**: Implemented levels and added nicknames to Cat Clicker.
 
 **Thoughts**: I'll be honest, I'm a little distracted because I'm reading
 an insanely good book and I wanna get back to it!
-
 
 ### Day 64: January 1, 2021
 
@@ -838,7 +775,6 @@ on Wednesday!
 I'm also relieved because I finished the book I was reading so I can return
 my full attention to my coding projects.
 
-
 ### Day 65: January 2, 2021
 
 **Today's Progress**: Picked back up where I left off yesterday and implemented
@@ -846,7 +782,6 @@ some more Knockout trickery - specifically, adding all of my cats to an
 array and displaying the cat list on the page.
 
 **Thoughts**: I really like this Udacity course!
-
 
 ### Day 66: January 3, 2021
 
@@ -863,14 +798,12 @@ seems to be pretty popular!
 
 [Why You Need a Local Testing Server (and How To Do It)](http://www.dwuser.com/education/content/why-you-need-a-testing-server-and-how-to-do-it/)
 
-
 ### Day 67: January 4, 2021
 
 **Today's Progress**: Added some features to the Backbone-based todo-list app
 provided by Udacity.
 
 **Thoughts**: This was fun and easy. . .maybe deceptively so?
-
 
 ### Day 68: January 5, 2021
 
@@ -887,16 +820,14 @@ Now that I've taken a break from Vue for awhile, I do of course have some mental
 lag due to context-switching. So it's actually a really good thing that I'm
 picking it back up. I don't wanna get rusty!
 
-
 ### Day 69: January 6, 2021
 
-**Today's Progress**: Continued working on OOP JS course but didn't merge any 
+**Today's Progress**: Continued working on OOP JS course but didn't merge any
 code.
 
 **Thoughts**: I'm learning a lot but getting antsy because this course doesn't
 include any hands-on project. I'm torn between sticking with it and working on
 my own projects some more.
-
 
 ### Day 70: January 7, 2021
 
@@ -905,14 +836,13 @@ UX Design and critiquing a friend's website.
 
 **Thoughts**: Still feeling antsy. It's hard to find the right balance because
 when I'm learning about concepts, I feel like I'm not getting enough done. When
-I'm focused on just coding, I get stuck and would probably be able to get unstuck 
+I'm focused on just coding, I get stuck and would probably be able to get unstuck
 more easily if I have more knowledge.
 
 Actually, as I go through this OOP class, I see tons of stuff that I was already
 using in my projects but didn't really understand how or why it worked. So this
 is helping connect the dots, which is great, but I still feel like I'm not being
 productive enough.
-
 
 ### Day 71: January 8, 2021
 
@@ -927,8 +857,17 @@ Even now, I'm trying to implement some of the stuff I've learned and I'm running
 challenges. The solution I have in place is an improvement from before, but it's
 hacky and I need to work on it more.
 
-**Link(s) to work**:
+### Day 72: January 9, 2021
 
+**Today's Progress**: Kept working on OOP course but it was getting kinda tedious so
+I decided to do something more hands-on. I switched back to a Vue course to refresh
+my memory.
+
+I also spent some time reading "The Design of Everyday Things" by Don Norman.
+
+**Thoughts**: It's unfortunate that the OOP course is just a lot less engaging
+than the other online courses I've taken recently. I've been learning a lot but it's
+not nearly hands-on enough and I just had to switch to something else for a bit!
 
 ### Day X:
 
