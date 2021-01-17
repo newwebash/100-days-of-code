@@ -869,6 +869,23 @@ I also spent some time reading "The Design of Everyday Things" by Don Norman.
 than the other online courses I've taken recently. I've been learning a lot but it's
 not nearly hands-on enough and I just had to switch to something else for a bit!
 
+### Day 73: January 10, 2021
+
+**Today's Progress**: Started working on new Vue course and learned about Vue Router.
+However, I got interrupted and wasn't able to merge any code.
+
+**Thoughts**: I'm glad to be back on track focusing on Vue instead of exploring other
+JS frameworks!
+
+
+### Day 74: January 17, 2021
+
+**Today's Progress**: Continued my new Vue course and refreshed my memory about
+Vue components. I also worked with globally registered components for the first time.
+
+**Thoughts**: This is exciting!
+
+
 ### Day X:
 
 **Today's Progress**:
@@ -876,3 +893,4 @@ not nearly hands-on enough and I just had to switch to something else for a bit!
 **Thoughts**:
 
 **Link(s) to work**:
+
