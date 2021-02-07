@@ -886,6 +886,16 @@ Vue components. I also worked with globally registered components for the first 
 **Thoughts**: This is exciting!
 
 
+### Day 75: February 7, 2021
+
+**Today's Progress**: Added some very basic (and sadly, buggy) recipe info tags to
+my app to make it easier to decide whether to make a recipe at a glance.
+
+**Thoughts**: Hooooly moley, it's hard to pick back up where I left off from
+when I last worked on my recipe app 2 months ago. Also, in these last 2 months I've
+learned a ton about Vue and feel that the existing app is in dire need of refactoring.
+In fact, I might just nuke it and rebuild. But that will have to wait for another day.
+
 ### Day X:
 
 **Today's Progress**:
@@ -893,4 +903,3 @@ Vue components. I also worked with globally registered components for the first 
 **Thoughts**:
 
 **Link(s) to work**:
-
