@@ -896,6 +896,14 @@ when I last worked on my recipe app 2 months ago. Also, in these last 2 months I
 learned a ton about Vue and feel that the existing app is in dire need of refactoring.
 In fact, I might just nuke it and rebuild. But that will have to wait for another day.
 
+### Day 76: May 9, 2021
+
+**Today's Progress**: Learned about HTTP requests and set up a Google App Enginge
+project.
+
+**Thoughts**: This is fun but it's frustrating to work on something when you have
+so little time to devote to it.
+
 ### Day X:
 
 **Today's Progress**:
