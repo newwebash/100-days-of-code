@@ -904,6 +904,13 @@ project.
 **Thoughts**: This is fun but it's frustrating to work on something when you have
 so little time to devote to it.
 
+### Day 77: May 15, 2021
+
+**Today's Progress**: Learned about URL encoding that happens when submitting forms.
+
+**Thoughts**: Strangely it seems like I already knew a lot of this stuff even
+though I never formally learned it like I am now.
+
 ### Day X:
 
 **Today's Progress**:
