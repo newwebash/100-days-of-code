@@ -911,6 +911,12 @@ so little time to devote to it.
 **Thoughts**: Strangely it seems like I already knew a lot of this stuff even
 though I never formally learned it like I am now.
 
+### Day 78: June 26, 2021
+
+**Today's Progress**: Reviewed and practiced basic Go syntax.
+
+**Thoughts**: Go is fun! I like learning new things :D
+
 ### Day X:
 
 **Today's Progress**:
